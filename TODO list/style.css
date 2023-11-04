@@ -1,0 +1,21 @@
+
+a{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Kalam', cursive;
+font-family: 'Lisu Bosa', serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Rowdies', cursive;
+font-family: 'Satisfy', cursive;
+}
+
+.box{
+    max-width: 35rem;
+    
+    /* justify-content: center; */
+   
+}
+.input-group{
+    width: 65%;
+ 
+}
+
